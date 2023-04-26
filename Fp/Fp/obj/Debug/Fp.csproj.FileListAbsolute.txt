@@ -1,0 +1,7 @@
+F:\12A-Limberidis\3.-ADS-main\Fp\Fp\obj\Debug\Fp.csprojAssemblyReference.cache
+F:\12A-Limberidis\3.-ADS-main\Fp\Fp\obj\Debug\Fp.csproj.CoreCompileInputs.cache
+F:\12A-Limberidis\3.-ADS-main\Fp\Fp\bin\Debug\Fp.exe.config
+F:\12A-Limberidis\3.-ADS-main\Fp\Fp\bin\Debug\Fp.exe
+F:\12A-Limberidis\3.-ADS-main\Fp\Fp\bin\Debug\Fp.pdb
+F:\12A-Limberidis\3.-ADS-main\Fp\Fp\obj\Debug\Fp.exe
+F:\12A-Limberidis\3.-ADS-main\Fp\Fp\obj\Debug\Fp.pdb

@@ -1,0 +1,6 @@
+F:\12A-Limberidis\3.-ADS-main\Fp\fp2\bin\Debug\fp2.exe.config
+F:\12A-Limberidis\3.-ADS-main\Fp\fp2\bin\Debug\fp2.exe
+F:\12A-Limberidis\3.-ADS-main\Fp\fp2\bin\Debug\fp2.pdb
+F:\12A-Limberidis\3.-ADS-main\Fp\fp2\obj\Debug\fp2.csproj.CoreCompileInputs.cache
+F:\12A-Limberidis\3.-ADS-main\Fp\fp2\obj\Debug\fp2.exe
+F:\12A-Limberidis\3.-ADS-main\Fp\fp2\obj\Debug\fp2.pdb

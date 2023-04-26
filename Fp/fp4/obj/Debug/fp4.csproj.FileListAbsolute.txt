@@ -1,0 +1,6 @@
+F:\12A-Limberidis\3.-ADS-main\Fp\fp4\bin\Debug\fp4.exe.config
+F:\12A-Limberidis\3.-ADS-main\Fp\fp4\bin\Debug\fp4.exe
+F:\12A-Limberidis\3.-ADS-main\Fp\fp4\bin\Debug\fp4.pdb
+F:\12A-Limberidis\3.-ADS-main\Fp\fp4\obj\Debug\fp4.csproj.CoreCompileInputs.cache
+F:\12A-Limberidis\3.-ADS-main\Fp\fp4\obj\Debug\fp4.exe
+F:\12A-Limberidis\3.-ADS-main\Fp\fp4\obj\Debug\fp4.pdb
